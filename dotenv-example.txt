@@ -1,0 +1,8 @@
+#LLM API KEY
+#GEMINI_API_KEY=<Add API key for Gemini LLM>
+#WEATHERTOOL API KEY
+#https://home.openweathermap.org/api_keys - Radhika
+#WEATHER_API_KEY=<Add API key for Weather API>
+#https://rapidapi.com/apidojo/api/hm-hennes-mauritz/playground/apiendpoint_2ac3208c-3dd6-4ef5-8fd4-63fc4d599088
+FASHION_API_KEY=Add API key for fashion API>
+
